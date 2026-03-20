@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maevecymru.com/sitemap.xml
+Sitemap: https://maeve-site.jacpadraic.workers.dev/sitemap.xml
